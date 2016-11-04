@@ -94,6 +94,7 @@ Ext.define('ThemerContestApp.view.main.Speakers', {
         },
         {
             xtype : 'list',
+            ui : 'speakers-list',
             itemTpl : '{name}<br /><font style="color:#a0a0a0">{job_title}</font>',
             store : 'Speaker',
             flex : 1,
