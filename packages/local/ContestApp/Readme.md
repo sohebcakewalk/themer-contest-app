@@ -1,2 +1,2 @@
-# myTheme - Read Me
+# ContestApp - Read Me
 

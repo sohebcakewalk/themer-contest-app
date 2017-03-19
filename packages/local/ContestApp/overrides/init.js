@@ -1,2 +1,2 @@
-Ext.namespace('Ext.theme.is')['myTheme'] = true;
-Ext.theme.name = 'myTheme';
+Ext.namespace('Ext.theme.is')['ContestApp'] = true;
+Ext.theme.name = 'ContestApp';
