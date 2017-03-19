@@ -4,7 +4,7 @@
      */
     "apps": [
         "packages/local/theme-triton-24/.sencha/temp/Themer",
-        "packages/local/myTheme/.sencha/temp/Themer"
+        "packages/local/ContestApp/.sencha/temp/Themer"
     ],
 
     /**
