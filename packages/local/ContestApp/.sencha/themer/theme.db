@@ -2,10 +2,87 @@
   "settings": [
     {
       "name": "toolkit",
-      "value": "classic",
+      "value": "modern",
       "id": "c9246f46-8234-4092-9846-2923c30255c1"
     }
   ],
-  "fonts": [],
-  "palette": []
+  "fonts": [
+    {
+      "name": "Cinzel Decorative",
+      "type": "google",
+      "fallback": "sans-serif",
+      "id": "93be2a54-71b1-4c0a-9987-aafdc9c56636"
+    },
+    {
+      "name": "Raleway",
+      "type": "google",
+      "fallback": "sans-serif",
+      "id": "58c9b9a3-5a34-4df7-8eda-11ee377df9ca"
+    },
+    {
+      "name": "Roboto",
+      "type": "google",
+      "fallback": "sans-serif",
+      "id": "4b542c17-7a24-434c-8801-92a22b8c5496"
+    }
+  ],
+  "palette": [
+    {
+      "variable": "base_color",
+      "displayName": "Base Color",
+      "order": 0,
+      "r": 60,
+      "g": 141,
+      "b": 188,
+      "a": 1,
+      "h": 0.5611979166666666,
+      "s": 0.6808510638297872,
+      "v": 0.7372549019607844,
+      "id": "e62a780b-84db-4789-b1fc-b18d9ea86652",
+      "transparent": false,
+      "sass": "",
+      "base": true,
+      "tooltip": "<b>Base Color</b><br/>#3C8DBC",
+      "rgba": "rgba(60, 141, 188, 1)",
+      "hex": "#3C8DBC"
+    },
+    {
+      "variable": "body_background_color",
+      "displayName": "Body Background Color",
+      "order": 1,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 1,
+      "h": 0,
+      "s": 0,
+      "v": 1,
+      "id": "cb11710a-c3bf-4e6a-98c7-d7a2035d0325",
+      "transparent": false,
+      "sass": "",
+      "base": true,
+      "tooltip": "<b>Body Background Color</b><br/>#FFFFFF",
+      "rgba": "rgba(255, 255, 255, 1)",
+      "hex": "#FFFFFF"
+    },
+    {
+      "variable": "color",
+      "displayName": "Default Font Color",
+      "order": 2,
+      "r": 64,
+      "g": 64,
+      "b": 64,
+      "a": 1,
+      "h": 0,
+      "s": 0,
+      "v": 0.25098039215686274,
+      "id": "d5de1e55-d645-4f87-a5bc-6df33e800b11",
+      "transparent": false,
+      "sass": "",
+      "base": true,
+      "tooltip": "<b>Default Font Color</b><br/>#404040",
+      "rgba": "rgba(64, 64, 64, 1)",
+      "hex": "#404040"
+    }
+  ]
 }
